@@ -693,7 +693,7 @@ margin: 22px 0;
   align-items: center;
   gap: 28px;
   flex-wrap: wrap;
-`,cN=({openModal:e,setOpenModal:t})=>(_.useState("all"),x.jsx(iN,{id:"Projects",children:x.jsxs(aN,{children:[x.jsx(sN,{children:"Projects"}),x.jsx(lN,{style:{marginBottom:"40px"},children:"I have worked on this projects."}),x.jsx(uN,{children:qD.map((r,n)=>x.jsx(oN,{project:r,openModal:e,setOpenModal:t},n))})]})}));var G0={},dN=Zn;Object.defineProperty(G0,"__esModule",{value:!0});var bC=G0.default=void 0,fN=dN(Ji()),pN=x;bC=G0.default=(0,fN.default)((0,pN.jsx)("path",{d:"M4 18h16c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1 .45-1 1s.45 1 1 1m0-5h16c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1 .45-1 1s.45 1 1 1M3 7c0 .55.45 1 1 1h16c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1 .45-1 1"}),"MenuRounded");const pb="/assets/Resume-BFOE26GR.pdf",hN=O.div`
+`,cN=({openModal:e,setOpenModal:t})=>(_.useState("all"),x.jsx(iN,{id:"Projects",children:x.jsxs(aN,{children:[x.jsx(sN,{children:"Projects"}),x.jsx(lN,{style:{marginBottom:"40px"},children:"I have worked on this projects."}),x.jsx(uN,{children:qD.map((r,n)=>x.jsx(oN,{project:r,openModal:e,setOpenModal:t},n))})]})}));var G0={},dN=Zn;Object.defineProperty(G0,"__esModule",{value:!0});var bC=G0.default=void 0,fN=dN(Ji()),pN=x;bC=G0.default=(0,fN.default)((0,pN.jsx)("path",{d:"M4 18h16c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1 .45-1 1s.45 1 1 1m0-5h16c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1 .45-1 1s.45 1 1 1M3 7c0 .55.45 1 1 1h16c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1 .45-1 1"}),"MenuRounded");const pb="/assets/Resume-BCxqATeC.pdf",hN=O.div`
   background-color: ${({theme:e})=>e.bg};
   height: 80px;
   display: flex;
